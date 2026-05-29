@@ -1,0 +1,2227 @@
+[
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Guía de alimentación para diabetes tipo 2",
+        "subtitle": "Una guía práctica para organizar comidas, entender el plato y reducir decisiones improvisadas alrededor del control glucémico.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Carbohidrato: cantidad, calidad y contexto importan.",
+          "Fibra: ayuda a que la comida sea más completa y saciante.",
+          "Proteína: estabiliza la estructura del plato.",
+          "Grasas insaturadas: aportan saciedad y calidad dietaria.",
+          "Monitoreo: las decisiones mejoran cuando tienes datos y observación."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Usa el método del plato como punto de partida: vegetales sin almidón, proteína magra y carbohidrato de calidad.",
+          "Prioriza carbohidratos con fibra: legumbres, avena, frutas enteras y granos integrales según tolerancia.",
+          "Incluye proteína en cada comida para mejorar saciedad y estabilidad percibida.",
+          "Evita bebidas azucaradas como hábito diario.",
+          "Registra comidas y respuesta percibida antes de hacer cambios extremos."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Incluye proteína en cada comida para mejorar saciedad y estabilidad percibida.",
+          "Evita bebidas azucaradas como hábito diario.",
+          "Registra comidas y respuesta percibida antes de hacer cambios extremos.",
+          "Planifica snacks solo cuando tu horario, hambre o tratamiento lo justifique."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "CDC: Diabetes Meal Planning",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "guia-alimentacion-diabetes-tipo-2",
+    "title": "Guía de alimentación para diabetes tipo 2",
+    "category": "Diabetes",
+    "accent": "#0A6B6B",
+    "image": "https://images.pexels.com/photos/6823504/pexels-photo-6823504.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Una guía práctica para organizar comidas, entender el plato y reducir decisiones improvisadas alrededor del control glucémico.",
+    "audience": "Personas con diabetes tipo 2 que quieren ordenar su alimentación sin caer en listas extremas.",
+    "lead": "La alimentación en diabetes tipo 2 no empieza por prohibirlo todo. Empieza por entender cómo combinar carbohidratos, proteína, fibra, grasas y horarios para que la comida sea más predecible y sostenible.",
+    "promise": "Te llevas una estructura clara para conversar mejor con tu profesional y planificar comidas reales.",
+    "quickWins": [
+      "Usa el método del plato como punto de partida: vegetales sin almidón, proteína magra y carbohidrato de calidad.",
+      "Prioriza carbohidratos con fibra: legumbres, avena, frutas enteras y granos integrales según tolerancia.",
+      "Incluye proteína en cada comida para mejorar saciedad y estabilidad percibida.",
+      "Evita bebidas azucaradas como hábito diario.",
+      "Registra comidas y respuesta percibida antes de hacer cambios extremos.",
+      "Planifica snacks solo cuando tu horario, hambre o tratamiento lo justifique."
+    ],
+    "framework": [
+      "Carbohidrato: cantidad, calidad y contexto importan.",
+      "Fibra: ayuda a que la comida sea más completa y saciante.",
+      "Proteína: estabiliza la estructura del plato.",
+      "Grasas insaturadas: aportan saciedad y calidad dietaria.",
+      "Monitoreo: las decisiones mejoran cuando tienes datos y observación."
+    ],
+    "sections": [
+      {
+        "heading": "La idea central: consistencia antes que perfección",
+        "body": [
+          "En diabetes tipo 2, una comida útil suele ser una comida que puedes repetir, medir y ajustar. No se trata de buscar un menú perfecto, sino de encontrar combinaciones que reduzcan improvisación y te permitan observar mejor tu respuesta diaria.",
+          "Un patrón alimentario de calidad pone atención a carbohidratos, fibra, proteína, grasas y bebidas. La clave es adaptar estas piezas a tu tratamiento, horarios, cultura alimentaria y objetivos clínicos definidos con tu profesional."
+        ]
+      },
+      {
+        "heading": "Cómo construir un plato más predecible",
+        "body": [
+          "Empieza con vegetales sin almidón, suma una fuente de proteína y elige una porción de carbohidrato con fibra. Este método visual ayuda porque simplifica la decisión sin convertir cada comida en una operación matemática.",
+          "Ejemplos: pollo con ensalada y arroz integral; lentejas con verduras y aguacate; yogur natural con fruta entera y nueces. La cantidad exacta depende de tu contexto, pero la estructura evita comidas basadas solo en harinas o azúcares rápidos."
+        ]
+      },
+      {
+        "heading": "Carbohidratos: no todos se comportan igual",
+        "body": [
+          "Los carbohidratos están en frutas, lácteos, granos, tubérculos, legumbres y dulces. La diferencia práctica está en la porción, la fibra, la forma del alimento y con qué lo combinas.",
+          "La fruta entera suele ser más útil que el jugo porque conserva fibra y obliga a una porción más razonable. Las legumbres y granos integrales pueden ser mejores aliados que productos refinados, siempre considerando tolerancia individual."
+        ]
+      },
+      {
+        "heading": "Lo que conviene monitorear",
+        "body": [
+          "Más que copiar menús, observa patrones: qué desayunos te dan más saciedad, qué cenas te dejan con hambre, qué bebidas aumentan calorías sin darte plenitud y qué horarios te llevan a picar sin plan.",
+          "Si usas medicación o tienes indicaciones específicas, cualquier cambio importante debe revisarse con tu equipo de salud. La guía sirve para organizar preguntas y decisiones, no para reemplazar tratamiento."
+        ]
+      },
+      {
+        "heading": "Plan de una semana",
+        "body": [
+          "Elige dos desayunos, tres almuerzos y tres cenas que puedas repetir. Compra proteína, vegetales, una fruta práctica, legumbres o granos integrales y una opción de emergencia como atún, huevos, yogur natural o verduras congeladas.",
+          "La meta inicial no es variar todos los días, sino sostener una base estable. Cuando algo funciona, se repite; cuando no funciona, se ajusta con datos y no con culpa."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Método del plato para diabetes tipo 2",
+      "Lista de compras base",
+      "Checklist de etiquetas",
+      "Plan semanal editable",
+      "Preguntas para consulta"
+    ],
+    "references": [
+      {
+        "label": "CDC: Diabetes Meal Planning",
+        "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/guia-alimentacion-diabetes-tipo-2.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Checklist renal: alimentos que cuidar",
+        "subtitle": "Un checklist educativo para hablar con claridad sobre sodio, potasio, fósforo, proteínas y líquidos en salud renal.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Sodio: suele ser una prioridad práctica en presión y retención de líquidos.",
+          "Potasio: depende de laboratorios, medicación y etapa clínica.",
+          "Fósforo: se encuentra en alimentos naturales y aditivos.",
+          "Proteína: necesita ajuste individual, no eliminación improvisada.",
+          "Líquidos: se personalizan según función renal y síntomas."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "No reduzcas potasio, fósforo o proteína sin indicación personalizada.",
+          "Revisa sodio en panes, embutidos, sopas instantáneas, snacks y salsas.",
+          "Pregunta si en tu caso aplica controlar potasio o fósforo.",
+          "Evita suplementos de proteína sin autorización clínica.",
+          "Organiza una lista de alimentos frecuentes para revisarla en consulta."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Pregunta si en tu caso aplica controlar potasio o fósforo.",
+          "Evita suplementos de proteína sin autorización clínica.",
+          "Organiza una lista de alimentos frecuentes para revisarla en consulta.",
+          "Mide líquidos solo si tu profesional lo indicó."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "NIDDK: Eating Right for Chronic Kidney Disease",
+          "American Heart Association: Sodium and Salt",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "checklist-renal-alimentos-cuidar",
+    "title": "Checklist renal: alimentos que cuidar",
+    "category": "Salud renal",
+    "accent": "#0D8484",
+    "image": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Un checklist educativo para hablar con claridad sobre sodio, potasio, fósforo, proteínas y líquidos en salud renal.",
+    "audience": "Personas con salud renal delicada que necesitan ordenar preguntas y compras sin automedicarse con restricciones.",
+    "lead": "En salud renal, restringir alimentos sin conocer tus laboratorios puede ser contraproducente. Lo responsable es entender qué nutrientes suelen requerir atención y validar prioridades con tu profesional.",
+    "promise": "Te ayuda a preparar una conversación más precisa con nutrición clínica o nefrología.",
+    "quickWins": [
+      "No reduzcas potasio, fósforo o proteína sin indicación personalizada.",
+      "Revisa sodio en panes, embutidos, sopas instantáneas, snacks y salsas.",
+      "Pregunta si en tu caso aplica controlar potasio o fósforo.",
+      "Evita suplementos de proteína sin autorización clínica.",
+      "Organiza una lista de alimentos frecuentes para revisarla en consulta.",
+      "Mide líquidos solo si tu profesional lo indicó."
+    ],
+    "framework": [
+      "Sodio: suele ser una prioridad práctica en presión y retención de líquidos.",
+      "Potasio: depende de laboratorios, medicación y etapa clínica.",
+      "Fósforo: se encuentra en alimentos naturales y aditivos.",
+      "Proteína: necesita ajuste individual, no eliminación improvisada.",
+      "Líquidos: se personalizan según función renal y síntomas."
+    ],
+    "sections": [
+      {
+        "heading": "La salud renal necesita personalización",
+        "body": [
+          "Dos personas con enfermedad renal pueden necesitar pautas distintas. La etapa, los laboratorios, medicamentos, presión arterial y presencia de diabetes cambian las prioridades.",
+          "Por eso esta guía no etiqueta alimentos como buenos o malos. Te ayuda a identificar puntos de conversación y a reducir el consumo de productos claramente altos en sodio o ultraprocesados."
+        ]
+      },
+      {
+        "heading": "Sodio: el primer lugar donde mirar",
+        "body": [
+          "Mucho sodio no viene del salero, sino de productos empacados, panes, quesos salados, embutidos, caldos, sopas, salsas y comida rápida. Leer etiquetas puede tener más impacto que solo quitar la sal visible.",
+          "Una estrategia práctica es elegir productos con menos sodio, usar hierbas, limón, ajo, especias y cocinar más bases simples en casa."
+        ]
+      },
+      {
+        "heading": "Potasio y fósforo: no son universales",
+        "body": [
+          "Potasio y fósforo pueden necesitar control en algunos casos, pero no siempre. Reducir frutas, verduras, legumbres o lácteos sin indicación puede empobrecer la dieta y aumentar ansiedad alimentaria.",
+          "Pregunta a tu profesional qué nutrientes estás monitoreando y qué rango de laboratorio guía la decisión. El objetivo es adaptar, no prohibir por miedo."
+        ]
+      },
+      {
+        "heading": "Proteína: cantidad y fuente importan",
+        "body": [
+          "La proteína puede requerir ajuste en enfermedad renal, pero la cantidad exacta debe definirse con tu equipo. También importan las fuentes: carnes procesadas y embutidos suelen traer sodio y aditivos.",
+          "Opciones más simples como huevo, pollo, pescado, yogur o legumbres pueden entrar de formas diferentes según tu caso."
+        ]
+      },
+      {
+        "heading": "Checklist para llevar a consulta",
+        "body": [
+          "Lleva una lista de comidas típicas, marcas frecuentes, suplementos, bebidas y resultados de laboratorio recientes. Esto permite una pauta más útil que una lista genérica.",
+          "También anota síntomas, cambios de peso, presión arterial si la mides y dudas concretas sobre alimentos que consumes de verdad."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Checklist de sodio oculto",
+      "Preguntas sobre potasio y fósforo",
+      "Lista para consulta renal",
+      "Tabla de decisiones de compra",
+      "Errores comunes"
+    ],
+    "references": [
+      {
+        "label": "NIDDK: Eating Right for Chronic Kidney Disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/eating-nutrition"
+      },
+      {
+        "label": "American Heart Association: Sodium and Salt",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-and-salt"
+      }
+    ],
+    "pdfPath": "/downloads/checklist-renal-alimentos-cuidar.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Nutrición en embarazo: guía práctica",
+        "subtitle": "Principios de alimentación segura durante el embarazo: energía, proteína, micronutrientes, seguridad alimentaria y náuseas.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Energía: aumenta de forma gradual, no por duplicar platos.",
+          "Proteína: apoya saciedad y calidad de comidas.",
+          "Micronutrientes: folato, hierro, calcio, vitamina D, yodo y omega-3 suelen requerir atención.",
+          "Seguridad alimentaria: higiene y cocción importan.",
+          "Síntomas: náuseas y reflujo requieren estrategia."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Incluye proteína en desayuno o primera comida tolerada.",
+          "Prioriza alimentos ricos en folato, hierro, calcio, vitamina D y yodo según indicación profesional.",
+          "Evita alcohol y alimentos de alto riesgo microbiológico.",
+          "Usa comidas pequeñas si hay náuseas o reflujo.",
+          "Mantén hidratación y fibra para tránsito intestinal."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Evita alcohol y alimentos de alto riesgo microbiológico.",
+          "Usa comidas pequeñas si hay náuseas o reflujo.",
+          "Mantén hidratación y fibra para tránsito intestinal.",
+          "Consulta suplementos prenatales con tu profesional."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "ACOG: Nutrition During Pregnancy",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "nutricion-embarazo-guia-practica",
+    "title": "Nutrición en embarazo: guía práctica",
+    "category": "Embarazo",
+    "accent": "#7BC4BE",
+    "image": "https://images.pexels.com/photos/7485094/pexels-photo-7485094.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Principios de alimentación segura durante el embarazo: energía, proteína, micronutrientes, seguridad alimentaria y náuseas.",
+    "audience": "Mujeres embarazadas que buscan estructura clara y segura para comer mejor sin ansiedad.",
+    "lead": "Comer durante el embarazo no significa duplicar porciones. Significa cubrir necesidades, cuidar seguridad alimentaria y sostener comidas que funcionen con náuseas, cansancio y horarios reales.",
+    "promise": "Ordena nutrientes clave y decisiones prácticas para conversar con obstetricia o nutrición.",
+    "quickWins": [
+      "Incluye proteína en desayuno o primera comida tolerada.",
+      "Prioriza alimentos ricos en folato, hierro, calcio, vitamina D y yodo según indicación profesional.",
+      "Evita alcohol y alimentos de alto riesgo microbiológico.",
+      "Usa comidas pequeñas si hay náuseas o reflujo.",
+      "Mantén hidratación y fibra para tránsito intestinal.",
+      "Consulta suplementos prenatales con tu profesional."
+    ],
+    "framework": [
+      "Energía: aumenta de forma gradual, no por duplicar platos.",
+      "Proteína: apoya saciedad y calidad de comidas.",
+      "Micronutrientes: folato, hierro, calcio, vitamina D, yodo y omega-3 suelen requerir atención.",
+      "Seguridad alimentaria: higiene y cocción importan.",
+      "Síntomas: náuseas y reflujo requieren estrategia."
+    ],
+    "sections": [
+      {
+        "heading": "Nutrición suficiente, no perfecta",
+        "body": [
+          "El embarazo cambia apetito, tolerancias y energía. La meta es construir un patrón suficiente y seguro, no una dieta rígida que aumente culpa.",
+          "Un buen punto de partida es combinar proteína, carbohidrato de calidad, fruta o verdura y grasa saludable en la mayoría de comidas, adaptando texturas y horarios."
+        ]
+      },
+      {
+        "heading": "Nutrientes que suelen importar",
+        "body": [
+          "Folato, hierro, calcio, vitamina D, yodo y ácidos grasos omega-3 suelen aparecer en la conversación prenatal. Algunos se cubren con alimentos y otros pueden requerir suplemento indicado.",
+          "No todos los suplementos son necesarios ni seguros en cualquier dosis. Lleva tu prenatal, dosis y marcas a consulta para revisarlos."
+        ]
+      },
+      {
+        "heading": "Seguridad alimentaria",
+        "body": [
+          "Durante el embarazo conviene cuidar cocción, refrigeración, higiene y procedencia. Evita alcohol y pregunta por pescados de bajo mercurio, lácteos pasteurizados y alimentos crudos o poco cocidos.",
+          "La seguridad alimentaria no busca asustar, sino reducir riesgos evitables con medidas simples y consistentes."
+        ]
+      },
+      {
+        "heading": "Náuseas, hambre y meriendas",
+        "body": [
+          "Comidas pequeñas, alimentos secos al despertar, líquidos separados de comidas y snacks con proteína pueden ayudar a manejar días difíciles. Si hay vómitos persistentes, pérdida de peso o deshidratación, consulta de inmediato.",
+          "Una merienda útil puede combinar fruta con yogur, tostada con huevo, frutos secos con fruta o queso pasteurizado con galletas integrales."
+        ]
+      },
+      {
+        "heading": "Cómo usar esta guía",
+        "body": [
+          "Úsala para planificar una semana simple: dos desayunos tolerables, dos meriendas y tres platos base. La repetición es una herramienta, no un fracaso.",
+          "Si tienes diabetes gestacional, hipertensión, anemia u otra condición, necesitas indicaciones personalizadas."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Nutrientes clave",
+      "Seguridad alimentaria",
+      "Ideas para náuseas",
+      "Meriendas prácticas",
+      "Preguntas para control prenatal"
+    ],
+    "references": [
+      {
+        "label": "ACOG: Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/nutricion-embarazo-guia-practica.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Menú para resistencia a la insulina",
+        "subtitle": "Menú educativo para combinar proteína, fibra, carbohidratos de calidad y horarios sostenibles.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Proteína en cada comida.",
+          "Fibra diaria desde verduras, frutas enteras, legumbres y granos integrales.",
+          "Carbohidratos de calidad y porciones consistentes.",
+          "Movimiento regular como complemento.",
+          "Registro breve de hambre, sueño y antojos."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Desayuna con proteína si sueles tener antojos fuertes por la mañana.",
+          "Elige carbohidratos con fibra y combínalos con proteína o grasa saludable.",
+          "Reduce bebidas azucaradas y postres líquidos.",
+          "Caminar después de comer puede ser una estrategia útil si tu médico lo permite.",
+          "Duerme y maneja estrés: influyen en apetito y glucosa."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Reduce bebidas azucaradas y postres líquidos.",
+          "Caminar después de comer puede ser una estrategia útil si tu médico lo permite.",
+          "Duerme y maneja estrés: influyen en apetito y glucosa.",
+          "No elimines carbohidratos sin plan, aprende a dosificarlos."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "CDC: Prediabetes and Type 2 Diabetes Prevention",
+          "CDC: Diabetes Meal Planning",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "menu-resistencia-insulina",
+    "title": "Menú para resistencia a la insulina",
+    "category": "Prediabetes",
+    "accent": "#1C1D20",
+    "image": "https://images.pexels.com/photos/19870648/pexels-photo-19870648.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Menú educativo para combinar proteína, fibra, carbohidratos de calidad y horarios sostenibles.",
+    "audience": "Personas con resistencia a la insulina, prediabetes o antecedentes familiares que buscan estructura.",
+    "lead": "La resistencia a la insulina suele mejorar con patrones sostenibles: más fibra, menos bebidas azucaradas, proteína suficiente, actividad física y sueño. La comida debe ser una herramienta, no una lista imposible.",
+    "promise": "Incluye menú base, lista de compras y método para ajustar por hambre y horarios.",
+    "quickWins": [
+      "Desayuna con proteína si sueles tener antojos fuertes por la mañana.",
+      "Elige carbohidratos con fibra y combínalos con proteína o grasa saludable.",
+      "Reduce bebidas azucaradas y postres líquidos.",
+      "Caminar después de comer puede ser una estrategia útil si tu médico lo permite.",
+      "Duerme y maneja estrés: influyen en apetito y glucosa.",
+      "No elimines carbohidratos sin plan, aprende a dosificarlos."
+    ],
+    "framework": [
+      "Proteína en cada comida.",
+      "Fibra diaria desde verduras, frutas enteras, legumbres y granos integrales.",
+      "Carbohidratos de calidad y porciones consistentes.",
+      "Movimiento regular como complemento.",
+      "Registro breve de hambre, sueño y antojos."
+    ],
+    "sections": [
+      {
+        "heading": "La estructura del menú",
+        "body": [
+          "Un menú para resistencia a la insulina debe evitar picos de hambre y decisiones impulsivas. Para eso, cada comida necesita una base de proteína, fibra y carbohidrato elegido con intención.",
+          "No se trata de vivir sin arroz, fruta o pan. Se trata de decidir porción, frecuencia y combinación."
+        ]
+      },
+      {
+        "heading": "Desayunos que sostienen mejor",
+        "body": [
+          "Un desayuno basado solo en pan dulce, jugo o café azucarado puede dejar hambre rápida. Opciones con huevo, yogur natural, queso fresco, avena, frutos secos o legumbres pueden sostener mejor.",
+          "Si no tienes hambre temprano, planifica una primera comida completa más tarde en lugar de picar sin estructura."
+        ]
+      },
+      {
+        "heading": "Almuerzos y cenas",
+        "body": [
+          "Usa platos de tres partes: verduras, proteína y carbohidrato de calidad. Ejemplos: pescado con ensalada y camote; pollo con verduras y quinoa; lentejas con ensalada y aguacate.",
+          "La mitad visual del plato puede ser verdura sin almidón cuando sea posible, pero el contexto manda: presupuesto, cultura, apetito y entrenamiento también importan."
+        ]
+      },
+      {
+        "heading": "Snacks: cuándo sí tienen sentido",
+        "body": [
+          "Un snack no es obligatorio. Sirve si hay muchas horas entre comidas, actividad física o hambre real. Mejor si combina proteína o grasa saludable con fibra.",
+          "Ideas: fruta con nueces, yogur natural, hummus con verduras, huevo duro, queso fresco pasteurizado o tostada integral con palta."
+        ]
+      },
+      {
+        "heading": "Planificación práctica",
+        "body": [
+          "Elige una proteína cocinada, dos verduras listas y un carbohidrato base para tres días. Esto reduce dependencia de delivery o ultraprocesados.",
+          "Ajusta con tu profesional si usas medicación, estás embarazada o tienes una condición clínica adicional."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Menú de 5 días",
+      "Lista de compras",
+      "Ideas de snack",
+      "Plato para resistencia a la insulina",
+      "Registro de hambre y energía"
+    ],
+    "references": [
+      {
+        "label": "CDC: Prediabetes and Type 2 Diabetes Prevention",
+        "url": "https://www.cdc.gov/diabetes/prevention-type-2/index.html"
+      },
+      {
+        "label": "CDC: Diabetes Meal Planning",
+        "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html"
+      }
+    ],
+    "pdfPath": "/downloads/menu-resistencia-insulina.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Guía de digestión y salud intestinal",
+        "subtitle": "Una guía para registrar tolerancias, fibra, hidratación, horarios y señales digestivas sin caer en restricciones innecesarias.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Síntomas: qué ocurre, cuándo y cuánto dura.",
+          "Fibra: tipo y cantidad progresiva.",
+          "Hidratación: apoyo al tránsito intestinal.",
+          "Ritmo: horarios y velocidad al comer.",
+          "Alarmas: señales que requieren evaluación."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Registra síntoma, hora, comida, estrés y sueño por 7 días.",
+          "Aumenta fibra gradualmente si tu profesional lo considera apropiado.",
+          "Toma agua suficiente, especialmente si subes fibra.",
+          "Come con calma y horarios más regulares cuando sea posible.",
+          "No hagas dietas muy restrictivas sin seguimiento."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Toma agua suficiente, especialmente si subes fibra.",
+          "Come con calma y horarios más regulares cuando sea posible.",
+          "No hagas dietas muy restrictivas sin seguimiento.",
+          "Consulta si hay sangrado, pérdida de peso involuntaria, anemia o dolor intenso."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "NIDDK: Eating, Diet, and Nutrition for IBS",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "guia-digestion-salud-intestinal",
+    "title": "Guía de digestión y salud intestinal",
+    "category": "Digestión",
+    "accent": "#0A6B6B",
+    "image": "https://images.pexels.com/photos/6740514/pexels-photo-6740514.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Una guía para registrar tolerancias, fibra, hidratación, horarios y señales digestivas sin caer en restricciones innecesarias.",
+    "audience": "Personas con hinchazón, cambios de tránsito o molestias digestivas que necesitan ordenar información antes de consulta.",
+    "lead": "La digestión no se arregla eliminando alimentos al azar. Se entiende mejor cuando observas síntomas, horarios, fibra, estrés, sueño y tolerancias con método.",
+    "promise": "Te ayuda a preparar un diario digestivo útil y a identificar patrones conversables con un profesional.",
+    "quickWins": [
+      "Registra síntoma, hora, comida, estrés y sueño por 7 días.",
+      "Aumenta fibra gradualmente si tu profesional lo considera apropiado.",
+      "Toma agua suficiente, especialmente si subes fibra.",
+      "Come con calma y horarios más regulares cuando sea posible.",
+      "No hagas dietas muy restrictivas sin seguimiento.",
+      "Consulta si hay sangrado, pérdida de peso involuntaria, anemia o dolor intenso."
+    ],
+    "framework": [
+      "Síntomas: qué ocurre, cuándo y cuánto dura.",
+      "Fibra: tipo y cantidad progresiva.",
+      "Hidratación: apoyo al tránsito intestinal.",
+      "Ritmo: horarios y velocidad al comer.",
+      "Alarmas: señales que requieren evaluación."
+    ],
+    "sections": [
+      {
+        "heading": "Primero observa, luego decide",
+        "body": [
+          "La hinchazón o malestar puede tener causas distintas. Sin registro, es fácil culpar a un alimento y terminar con una dieta cada vez más pequeña.",
+          "Un diario simple permite distinguir entre alimentos, porciones, estrés, horarios, estreñimiento, sueño o comidas muy rápidas."
+        ]
+      },
+      {
+        "heading": "Fibra: aliada, pero con ritmo",
+        "body": [
+          "La fibra puede apoyar salud intestinal, pero subirla demasiado rápido puede aumentar gas o distensión. Lo más sensato es avanzar gradualmente y observar tolerancia.",
+          "Fuentes útiles incluyen avena, frutas, verduras, legumbres y semillas, ajustando según diagnóstico y síntomas."
+        ]
+      },
+      {
+        "heading": "Sobre dietas de eliminación",
+        "body": [
+          "Protocolos como bajo FODMAP pueden ser útiles en contextos específicos, pero deben tener fases, duración y reintroducción. Hacerlos sin guía puede reducir variedad y aumentar ansiedad.",
+          "Si sospechas intolerancias, lleva un registro y consulta antes de eliminar grupos completos."
+        ]
+      },
+      {
+        "heading": "Hábitos que también cuentan",
+        "body": [
+          "Comer muy rápido, saltar comidas, dormir poco, alta cafeína o estrés sostenido pueden empeorar síntomas en algunas personas.",
+          "Antes de cambiar toda tu dieta, revisa ritmo de comida, horarios, líquidos, movimiento y descanso."
+        ]
+      },
+      {
+        "heading": "Cuándo pedir ayuda pronto",
+        "body": [
+          "Busca evaluación si hay sangre en heces, pérdida de peso involuntaria, fiebre, anemia, dolor severo, vómitos persistentes o cambios nuevos importantes.",
+          "La educación nutricional acompaña, pero no reemplaza diagnóstico médico."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Diario digestivo de 7 días",
+      "Checklist de alarmas",
+      "Guía de fibra gradual",
+      "Preguntas para consulta",
+      "Mapa de hábitos digestivos"
+    ],
+    "references": [
+      {
+        "label": "NIDDK: Eating, Diet, and Nutrition for IBS",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/eating-diet-nutrition"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/guia-digestion-salud-intestinal.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Protocolo nutricional para inflamación",
+        "subtitle": "Marco educativo para construir un patrón alimentario de mayor calidad sin promesas de curación ni reglas extremas.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Patrón alimentario completo.",
+          "Variedad vegetal y fibra.",
+          "Grasas de calidad.",
+          "Menos ultraprocesados como hábito.",
+          "Sueño, estrés y actividad como parte del contexto."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Aumenta vegetales y frutas variadas según tolerancia.",
+          "Incluye legumbres, granos integrales o tubérculos de calidad.",
+          "Prioriza grasas insaturadas: aceite de oliva, palta, nueces o pescado.",
+          "Reduce ultraprocesados frecuentes, bebidas azucaradas y exceso de alcohol.",
+          "No uses suplementos como sustituto de un patrón alimentario."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Prioriza grasas insaturadas: aceite de oliva, palta, nueces o pescado.",
+          "Reduce ultraprocesados frecuentes, bebidas azucaradas y exceso de alcohol.",
+          "No uses suplementos como sustituto de un patrón alimentario.",
+          "Registra síntomas sin atribuir todo a un alimento aislado."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "Dietary Guidelines for Americans",
+          "NHLBI: DASH Eating Plan",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "protocolo-nutricional-inflamacion",
+    "title": "Protocolo nutricional para inflamación",
+    "category": "Inflamación",
+    "accent": "#0D8484",
+    "image": "https://images.pexels.com/photos/8696472/pexels-photo-8696472.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Marco educativo para construir un patrón alimentario de mayor calidad sin promesas de curación ni reglas extremas.",
+    "audience": "Personas que quieren mejorar calidad de dieta, energía percibida y organización ante molestias recurrentes.",
+    "lead": "La palabra inflamación se usa demasiado. En nutrición clínica conviene aterrizarla: calidad de dieta, fibra, grasas, ultraprocesados, sueño, movimiento y contexto médico.",
+    "promise": "Te da una estructura prudente para mejorar patrón alimentario y llevar mejores preguntas a consulta.",
+    "quickWins": [
+      "Aumenta vegetales y frutas variadas según tolerancia.",
+      "Incluye legumbres, granos integrales o tubérculos de calidad.",
+      "Prioriza grasas insaturadas: aceite de oliva, palta, nueces o pescado.",
+      "Reduce ultraprocesados frecuentes, bebidas azucaradas y exceso de alcohol.",
+      "No uses suplementos como sustituto de un patrón alimentario.",
+      "Registra síntomas sin atribuir todo a un alimento aislado."
+    ],
+    "framework": [
+      "Patrón alimentario completo.",
+      "Variedad vegetal y fibra.",
+      "Grasas de calidad.",
+      "Menos ultraprocesados como hábito.",
+      "Sueño, estrés y actividad como parte del contexto."
+    ],
+    "sections": [
+      {
+        "heading": "Inflamación no es un diagnóstico nutricional único",
+        "body": [
+          "Sentirse inflamado puede significar digestión, retención, dolor, fatiga o una condición médica. Por eso, la alimentación debe abordarse con precisión y sin promesas absolutas.",
+          "Un patrón tipo mediterráneo, rico en alimentos mínimamente procesados, suele ser una base prudente para calidad dietaria general."
+        ]
+      },
+      {
+        "heading": "Construye el plato por calidad",
+        "body": [
+          "Empieza con vegetales, frutas enteras, legumbres, granos integrales, pescado, huevos, yogur natural, frutos secos, aceite de oliva y especias. No necesitas comer perfecto: necesitas una base repetible.",
+          "La calidad se mide por frecuencia. Un día no define tu salud, pero tus compras habituales sí construyen el entorno."
+        ]
+      },
+      {
+        "heading": "Qué reducir sin obsesionarte",
+        "body": [
+          "Bebidas azucaradas, alcohol frecuente, snacks ultraprocesados y comidas muy pobres en fibra pueden desplazar alimentos de mayor valor.",
+          "La idea no es prohibir para siempre, sino reducir lo que ocupa demasiado espacio y no aporta saciedad ni nutrientes."
+        ]
+      },
+      {
+        "heading": "Síntomas y contexto",
+        "body": [
+          "Si hay dolor persistente, fiebre, pérdida de peso, fatiga intensa o marcadores alterados, consulta. La comida puede acompañar, pero no sustituye evaluación.",
+          "Usa registros de sueño, estrés, ciclo menstrual, ejercicio y digestión para no culpar a un solo alimento."
+        ]
+      },
+      {
+        "heading": "Plan de implementación",
+        "body": [
+          "Semana 1: agrega una verdura diaria. Semana 2: cambia una bebida azucarada por agua o infusión. Semana 3: suma legumbres dos veces. Semana 4: prepara una comida base para emergencias.",
+          "Cambios pequeños y medibles suelen ser más sostenibles que protocolos restrictivos de 30 días."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Protocolo de 4 semanas",
+      "Lista de compras anti-ultraprocesados",
+      "Mapa de síntomas",
+      "Platos base",
+      "Checklist de hábitos"
+    ],
+    "references": [
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      },
+      {
+        "label": "NHLBI: DASH Eating Plan",
+        "url": "https://www.nhlbi.nih.gov/education/dash-eating-plan"
+      }
+    ],
+    "pdfPath": "/downloads/protocolo-nutricional-inflamacion.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Lista de compras para síndrome metabólico",
+        "subtitle": "Una lista profesional para comprar con foco en fibra, proteína, grasas de calidad, sodio moderado y regularidad.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Fibra para saciedad y calidad metabólica.",
+          "Proteína para estructura de comidas.",
+          "Grasas insaturadas en porciones razonables.",
+          "Menos sodio y azúcares añadidos.",
+          "Planificación para reducir delivery improvisado."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Compra verduras listas para usar y una proteína práctica.",
+          "Incluye legumbres y granos integrales como base de fibra.",
+          "Elige lácteos naturales o alternativas sin exceso de azúcar.",
+          "Ten grasas de calidad medidas: nueces, palta, aceite de oliva.",
+          "Revisa sodio en salsas, panes y productos empacados."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Elige lácteos naturales o alternativas sin exceso de azúcar.",
+          "Ten grasas de calidad medidas: nueces, palta, aceite de oliva.",
+          "Revisa sodio en salsas, panes y productos empacados.",
+          "No compres solo alimentos de dieta; compra alimentos reales."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "NHLBI: Metabolic Syndrome Treatment",
+          "2023 International Evidence-based Guideline for PCOS",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "lista-compras-sindrome-metabolico",
+    "title": "Lista de compras para síndrome metabólico",
+    "category": "SOP",
+    "accent": "#7BC4BE",
+    "image": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Una lista profesional para comprar con foco en fibra, proteína, grasas de calidad, sodio moderado y regularidad.",
+    "audience": "Personas con síndrome metabólico, SOP o riesgo cardiometabólico que necesitan ordenar la despensa.",
+    "lead": "El síndrome metabólico se trabaja desde varios frentes: alimentación, actividad física, sueño, presión, lípidos y glucosa. La compra semanal es una palanca concreta.",
+    "promise": "Convierte recomendaciones generales en una lista de compras utilizable.",
+    "quickWins": [
+      "Compra verduras listas para usar y una proteína práctica.",
+      "Incluye legumbres y granos integrales como base de fibra.",
+      "Elige lácteos naturales o alternativas sin exceso de azúcar.",
+      "Ten grasas de calidad medidas: nueces, palta, aceite de oliva.",
+      "Revisa sodio en salsas, panes y productos empacados.",
+      "No compres solo alimentos de dieta; compra alimentos reales."
+    ],
+    "framework": [
+      "Fibra para saciedad y calidad metabólica.",
+      "Proteína para estructura de comidas.",
+      "Grasas insaturadas en porciones razonables.",
+      "Menos sodio y azúcares añadidos.",
+      "Planificación para reducir delivery improvisado."
+    ],
+    "sections": [
+      {
+        "heading": "Compra como si diseñaras tu semana",
+        "body": [
+          "Una lista útil no empieza por productos milagro. Empieza por comidas repetibles: desayunos, almuerzos, cenas y meriendas que puedas armar incluso con poco tiempo.",
+          "Si tu cocina tiene proteína, fibra, vegetales y opciones rápidas, es menos probable depender de decisiones de último minuto."
+        ]
+      },
+      {
+        "heading": "El bloque de fibra",
+        "body": [
+          "Verduras, frutas enteras, legumbres, avena, granos integrales y semillas pueden mejorar saciedad y calidad de la dieta. Sube gradualmente si no estás acostumbrado.",
+          "La fibra también ayuda a desplazar snacks ultraprocesados cuando las comidas principales quedan completas."
+        ]
+      },
+      {
+        "heading": "Proteínas prácticas",
+        "body": [
+          "Huevos, pescado, pollo, yogur natural, tofu, legumbres y carnes menos procesadas pueden servir como base. Los embutidos y carnes procesadas suelen traer sodio y grasas menos convenientes.",
+          "Elige opciones que realmente cocinarás. La mejor compra es la que termina en tu plato, no en un plan ideal."
+        ]
+      },
+      {
+        "heading": "Sodio, azúcar y etiquetas",
+        "body": [
+          "Compara productos similares. Panes, salsas, cereales, snacks y aderezos pueden variar mucho en sodio y azúcar.",
+          "No necesitas memorizar todos los números el primer día. Empieza comparando dos marcas y elige la mejor opción disponible."
+        ]
+      },
+      {
+        "heading": "SOP y enfoque metabólico",
+        "body": [
+          "En SOP, las guías suelen priorizar estilo de vida, actividad física y patrones alimentarios sostenibles. No existe una única dieta obligatoria para todas.",
+          "La lista de compras debe adaptarse a síntomas, preferencias, presupuesto y seguimiento clínico."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Lista de compras por categorías",
+      "Despensa cardiometabólica",
+      "Opciones de emergencia",
+      "Etiquetas que conviene mirar",
+      "Plan de 3 días"
+    ],
+    "references": [
+      {
+        "label": "NHLBI: Metabolic Syndrome Treatment",
+        "url": "https://www.nhlbi.nih.gov/health/metabolic-syndrome/treatment"
+      },
+      {
+        "label": "2023 International Evidence-based Guideline for PCOS",
+        "url": "https://www.monash.edu/medicine/mchri/pcos/guideline"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/lista-compras-sindrome-metabolico.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Guía de meriendas para embarazo",
+        "subtitle": "Meriendas seguras y prácticas para hambre, náuseas, horarios largos y energía percibida durante el embarazo.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Seguridad alimentaria primero.",
+          "Proteína para saciedad.",
+          "Fibra para tránsito intestinal.",
+          "Porciones pequeñas para náuseas.",
+          "Plan B para días de poco apetito."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Combina carbohidrato con proteína o grasa saludable.",
+          "Elige lácteos pasteurizados y alimentos bien conservados.",
+          "Ten opciones secas para náuseas: tostadas, galletas simples o cereal bajo en azúcar.",
+          "Incluye fruta entera cuando sea tolerada.",
+          "Evita alcohol y alimentos de riesgo microbiológico."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Ten opciones secas para náuseas: tostadas, galletas simples o cereal bajo en azúcar.",
+          "Incluye fruta entera cuando sea tolerada.",
+          "Evita alcohol y alimentos de riesgo microbiológico.",
+          "Pregunta por necesidades especiales si hay diabetes gestacional."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "ACOG: Nutrition During Pregnancy",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "guia-meriendas-embarazo",
+    "title": "Guía de meriendas para embarazo",
+    "category": "Embarazo",
+    "accent": "#7BC4BE",
+    "image": "https://images.pexels.com/photos/5852331/pexels-photo-5852331.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Meriendas seguras y prácticas para hambre, náuseas, horarios largos y energía percibida durante el embarazo.",
+    "audience": "Mujeres embarazadas que necesitan opciones simples entre comidas.",
+    "lead": "Las meriendas durante el embarazo pueden ayudar a sostener energía, manejar náuseas y evitar llegar con hambre extrema a la comida principal.",
+    "promise": "Incluye combinaciones prácticas con proteína, fibra y seguridad alimentaria.",
+    "quickWins": [
+      "Combina carbohidrato con proteína o grasa saludable.",
+      "Elige lácteos pasteurizados y alimentos bien conservados.",
+      "Ten opciones secas para náuseas: tostadas, galletas simples o cereal bajo en azúcar.",
+      "Incluye fruta entera cuando sea tolerada.",
+      "Evita alcohol y alimentos de riesgo microbiológico.",
+      "Pregunta por necesidades especiales si hay diabetes gestacional."
+    ],
+    "framework": [
+      "Seguridad alimentaria primero.",
+      "Proteína para saciedad.",
+      "Fibra para tránsito intestinal.",
+      "Porciones pequeñas para náuseas.",
+      "Plan B para días de poco apetito."
+    ],
+    "sections": [
+      {
+        "heading": "Una merienda tiene una función",
+        "body": [
+          "No se trata de picar por ansiedad ni de pasar hambre. Una merienda útil resuelve una necesidad: muchas horas entre comidas, náuseas, actividad, apetito elevado o prevención de atracones.",
+          "Durante el embarazo, la tolerancia cambia. Tener opciones flexibles reduce estrés."
+        ]
+      },
+      {
+        "heading": "Combinaciones base",
+        "body": [
+          "Fruta con yogur natural pasteurizado, tostada integral con huevo, queso pasteurizado con galletas, frutos secos con fruta o hummus con vegetales son ejemplos simples.",
+          "Si hay náuseas, empieza por porciones pequeñas y texturas tolerables."
+        ]
+      },
+      {
+        "heading": "Seguridad y conservación",
+        "body": [
+          "Mantén cadena de frío, revisa pasteurización, evita alimentos crudos de riesgo y lava frutas y verduras. La seguridad alimentaria es parte de la nutrición prenatal.",
+          "Si llevas comida fuera de casa, usa lonchera térmica cuando corresponda."
+        ]
+      },
+      {
+        "heading": "Diabetes gestacional o condiciones específicas",
+        "body": [
+          "Si tienes diabetes gestacional, hipertensión, anemia u otra condición, las meriendas deben personalizarse. Puede cambiar cantidad de carbohidrato, sodio o timing.",
+          "Usa esta guía como base de conversación, no como prescripción."
+        ]
+      },
+      {
+        "heading": "Cómo planificar",
+        "body": [
+          "Elige tres meriendas dulces y tres saladas. Compra ingredientes para repetirlas durante la semana y deja una opción estable en cartera o escritorio.",
+          "La previsibilidad disminuye decisiones impulsivas cuando aparece hambre intensa."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "20 meriendas prácticas",
+      "Opciones para náuseas",
+      "Checklist de seguridad",
+      "Ideas para llevar",
+      "Adaptaciones para consulta"
+    ],
+    "references": [
+      {
+        "label": "ACOG: Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/guia-meriendas-embarazo.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Planificador de comidas para salud renal",
+        "subtitle": "Plantilla para planificar comidas renales con enfoque educativo: sodio, proteína, potasio, fósforo y preguntas clínicas.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Sodio como base de revisión.",
+          "Proteína individualizada.",
+          "Potasio y fósforo según laboratorio.",
+          "Líquidos según indicación.",
+          "Planificación para reducir ultraprocesados."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Define qué nutrientes estás monitoreando con tu profesional.",
+          "Elige comidas bajas en sodio como base inicial.",
+          "Evita caldos, sopas instantáneas y embutidos frecuentes.",
+          "No uses sustitutos de sal sin preguntar; pueden contener potasio.",
+          "Registra presión, edema o síntomas si tu equipo lo pidió."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Evita caldos, sopas instantáneas y embutidos frecuentes.",
+          "No uses sustitutos de sal sin preguntar; pueden contener potasio.",
+          "Registra presión, edema o síntomas si tu equipo lo pidió.",
+          "Lleva marcas y porciones reales a consulta."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "NIDDK: Eating Right for Chronic Kidney Disease",
+          "American Heart Association: Sodium and Salt",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "planificador-comidas-salud-renal",
+    "title": "Planificador de comidas para salud renal",
+    "category": "Salud renal",
+    "accent": "#0D8484",
+    "image": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Plantilla para planificar comidas renales con enfoque educativo: sodio, proteína, potasio, fósforo y preguntas clínicas.",
+    "audience": "Personas que necesitan organizar comidas con una condición renal o riesgo renal.",
+    "lead": "Planificar con salud renal implica saber qué estás cuidando en tu caso. Esta guía organiza la semana sin convertir la comida en miedo.",
+    "promise": "Te da una plantilla de planificación y conversación clínica.",
+    "quickWins": [
+      "Define qué nutrientes estás monitoreando con tu profesional.",
+      "Elige comidas bajas en sodio como base inicial.",
+      "Evita caldos, sopas instantáneas y embutidos frecuentes.",
+      "No uses sustitutos de sal sin preguntar; pueden contener potasio.",
+      "Registra presión, edema o síntomas si tu equipo lo pidió.",
+      "Lleva marcas y porciones reales a consulta."
+    ],
+    "framework": [
+      "Sodio como base de revisión.",
+      "Proteína individualizada.",
+      "Potasio y fósforo según laboratorio.",
+      "Líquidos según indicación.",
+      "Planificación para reducir ultraprocesados."
+    ],
+    "sections": [
+      {
+        "heading": "Planificar reduce ansiedad",
+        "body": [
+          "Cuando cada comida parece peligrosa, la alimentación se vuelve agotadora. Un plan semanal ayuda a decidir con calma y a reservar preguntas específicas para consulta.",
+          "Empieza por reducir sodio de ultraprocesados, porque suele ser una acción útil y concreta mientras recibes indicaciones más personalizadas."
+        ]
+      },
+      {
+        "heading": "Plantilla de plato renal educativo",
+        "body": [
+          "El plato puede incluir proteína, verduras y carbohidrato, pero las elecciones exactas dependen de laboratorio y etapa. No todas las personas necesitan limitar lo mismo.",
+          "La plantilla incluye un espacio para marcar si esa comida es baja en sodio, si contiene alimentos altos en potasio o fósforo y qué duda queda pendiente."
+        ]
+      },
+      {
+        "heading": "Productos que conviene revisar",
+        "body": [
+          "Caldos concentrados, sopas, embutidos, quesos salados, snacks, salsas, panes y comida rápida pueden elevar sodio sin que parezca evidente.",
+          "También revisa aditivos con fosfatos si tu profesional indicó controlar fósforo."
+        ]
+      },
+      {
+        "heading": "Proteína con criterio",
+        "body": [
+          "La proteína no se elimina por cuenta propia. Se ajusta con criterio clínico. Pregunta cantidad diaria, distribución y fuentes más convenientes.",
+          "Evita suplementos proteicos si no han sido indicados, porque pueden complicar objetivos renales."
+        ]
+      },
+      {
+        "heading": "Cómo usar el planificador",
+        "body": [
+          "Planifica 3 días a la vez. Marca desayuno, comida, cena, líquidos y dudas. Lleva el plan a consulta para convertirlo en una pauta personalizada.",
+          "El valor está en hacer visible lo que comes realmente."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Plantilla semanal renal",
+      "Lista de productos a revisar",
+      "Preguntas para nefrología",
+      "Guía de sodio oculto",
+      "Registro de comidas"
+    ],
+    "references": [
+      {
+        "label": "NIDDK: Eating Right for Chronic Kidney Disease",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/eating-nutrition"
+      },
+      {
+        "label": "American Heart Association: Sodium and Salt",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-and-salt"
+      }
+    ],
+    "pdfPath": "/downloads/planificador-comidas-salud-renal.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Guía básica para hipertensión y sodio",
+        "subtitle": "Guía para entender sodio, patrón DASH, etiquetas y decisiones prácticas para presión arterial.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Sodio visible y oculto.",
+          "Patrón DASH: frutas, verduras, lácteos bajos en grasa, granos integrales y proteínas magras.",
+          "Alcohol y ultraprocesados.",
+          "Actividad física como complemento.",
+          "Monitoreo de presión con técnica adecuada."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Revisa sodio por porción en etiquetas.",
+          "Reduce embutidos, sopas instantáneas, snacks salados y salsas frecuentes.",
+          "Aumenta frutas, verduras y lácteos bajos en grasa si son adecuados para ti.",
+          "Usa hierbas, limón, ajo, especias y vinagre para sabor.",
+          "No suspendas medicación por cambios dietarios."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Aumenta frutas, verduras y lácteos bajos en grasa si son adecuados para ti.",
+          "Usa hierbas, limón, ajo, especias y vinagre para sabor.",
+          "No suspendas medicación por cambios dietarios.",
+          "Consulta si tienes enfermedad renal antes de aumentar potasio."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "NHLBI: DASH Eating Plan",
+          "American Heart Association: Sodium and Salt",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "guia-hipertension-sodio",
+    "title": "Guía básica para hipertensión y sodio",
+    "category": "Hipertensión",
+    "accent": "#1C1D20",
+    "image": "https://images.pexels.com/photos/5215000/pexels-photo-5215000.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Guía para entender sodio, patrón DASH, etiquetas y decisiones prácticas para presión arterial.",
+    "audience": "Personas con hipertensión o presión elevada que quieren ordenar alimentación sin medidas extremas.",
+    "lead": "La presión arterial se relaciona con sodio, potasio dietario, peso, alcohol, actividad física, sueño, estrés y tratamiento. La alimentación puede apoyar, pero debe ser consistente.",
+    "promise": "Te enseña a detectar sodio oculto y construir un patrón más cercano a DASH.",
+    "quickWins": [
+      "Revisa sodio por porción en etiquetas.",
+      "Reduce embutidos, sopas instantáneas, snacks salados y salsas frecuentes.",
+      "Aumenta frutas, verduras y lácteos bajos en grasa si son adecuados para ti.",
+      "Usa hierbas, limón, ajo, especias y vinagre para sabor.",
+      "No suspendas medicación por cambios dietarios.",
+      "Consulta si tienes enfermedad renal antes de aumentar potasio."
+    ],
+    "framework": [
+      "Sodio visible y oculto.",
+      "Patrón DASH: frutas, verduras, lácteos bajos en grasa, granos integrales y proteínas magras.",
+      "Alcohol y ultraprocesados.",
+      "Actividad física como complemento.",
+      "Monitoreo de presión con técnica adecuada."
+    ],
+    "sections": [
+      {
+        "heading": "El sodio no está solo en la sal",
+        "body": [
+          "Gran parte del sodio viene de alimentos procesados y comidas preparadas. Panes, quesos, embutidos, caldos, sopas, salsas y snacks pueden sumar rápido.",
+          "Leer etiquetas cambia la conversación: comparas opciones y eliges la que mejor encaja con tu objetivo."
+        ]
+      },
+      {
+        "heading": "Qué propone el patrón DASH",
+        "body": [
+          "DASH enfatiza frutas, verduras, granos integrales, lácteos bajos en grasa, legumbres, nueces, pescado y aves, con menor presencia de grasas saturadas y dulces.",
+          "No es una dieta exótica. Es un patrón de compra y cocina que se puede adaptar a alimentos locales."
+        ]
+      },
+      {
+        "heading": "Sabor sin tanto sodio",
+        "body": [
+          "Limón, vinagre, hierbas, ajo, cebolla, pimienta, paprika, comino y mezclas sin sal ayudan a recuperar sabor sin depender del salero.",
+          "Reducir sodio toma adaptación. El paladar suele ajustarse gradualmente si el cambio se sostiene."
+        ]
+      },
+      {
+        "heading": "Cuidado con sustitutos de sal",
+        "body": [
+          "Algunos sustitutos contienen potasio. Si tienes enfermedad renal o tomas ciertos medicamentos, pregunta antes de usarlos.",
+          "La mejor estrategia inicial suele ser cocinar más simple y reducir productos altos en sodio."
+        ]
+      },
+      {
+        "heading": "Plan de acción",
+        "body": [
+          "Elige tres productos frecuentes y compara sodio. Cambia uno esta semana. Prepara una salsa casera o aliño sin sal añadida. Registra presión si tu médico lo indicó.",
+          "Los cambios útiles son los que se pueden repetir."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Checklist de sodio oculto",
+      "Guía de patrón DASH",
+      "Comparador de etiquetas",
+      "Aliños bajos en sodio",
+      "Plan de 7 días"
+    ],
+    "references": [
+      {
+        "label": "NHLBI: DASH Eating Plan",
+        "url": "https://www.nhlbi.nih.gov/education/dash-eating-plan"
+      },
+      {
+        "label": "American Heart Association: Sodium and Salt",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-and-salt"
+      }
+    ],
+    "pdfPath": "/downloads/guia-hipertension-sodio.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Recursos para prediabetes",
+        "subtitle": "Recursos educativos para entender prediabetes, hábitos, peso, actividad física y estructura de comidas.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Alimentación con fibra y proteína.",
+          "Actividad física regular.",
+          "Pérdida de peso si aplica y es indicada.",
+          "Sueño y estrés.",
+          "Seguimiento de glucosa/laboratorios con profesional."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "Reduce bebidas azucaradas y postres líquidos.",
+          "Suma actividad física progresiva aprobada por tu profesional.",
+          "Usa platos con proteína y fibra.",
+          "Planifica desayunos y cenas, donde suele haber más improvisación.",
+          "Duerme mejor cuando sea posible: influye en apetito y glucosa."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Usa platos con proteína y fibra.",
+          "Planifica desayunos y cenas, donde suele haber más improvisación.",
+          "Duerme mejor cuando sea posible: influye en apetito y glucosa.",
+          "Monitorea indicadores con tu equipo de salud."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "CDC: Prediabetes and Type 2 Diabetes Prevention",
+          "CDC: Diabetes Meal Planning",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "recursos-prediabetes",
+    "title": "Recursos para prediabetes",
+    "category": "Prediabetes",
+    "accent": "#0D8484",
+    "image": "https://images.pexels.com/photos/19870648/pexels-photo-19870648.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Recursos educativos para entender prediabetes, hábitos, peso, actividad física y estructura de comidas.",
+    "audience": "Personas con prediabetes o riesgo de diabetes tipo 2 que quieren actuar temprano.",
+    "lead": "La prediabetes es una oportunidad para intervenir con hábitos sostenibles. No requiere pánico: requiere estructura, seguimiento y cambios medibles.",
+    "promise": "Organiza alimentación, actividad y monitoreo en pasos claros.",
+    "quickWins": [
+      "Reduce bebidas azucaradas y postres líquidos.",
+      "Suma actividad física progresiva aprobada por tu profesional.",
+      "Usa platos con proteína y fibra.",
+      "Planifica desayunos y cenas, donde suele haber más improvisación.",
+      "Duerme mejor cuando sea posible: influye en apetito y glucosa.",
+      "Monitorea indicadores con tu equipo de salud."
+    ],
+    "framework": [
+      "Alimentación con fibra y proteína.",
+      "Actividad física regular.",
+      "Pérdida de peso si aplica y es indicada.",
+      "Sueño y estrés.",
+      "Seguimiento de glucosa/laboratorios con profesional."
+    ],
+    "sections": [
+      {
+        "heading": "Prediabetes no es destino",
+        "body": [
+          "Prediabetes indica mayor riesgo, pero también margen de acción. Cambios en alimentación, actividad física y peso cuando aplica pueden ayudar a prevenir o retrasar diabetes tipo 2.",
+          "La meta es convertir intención en rutina: compras, platos, movimiento y seguimiento."
+        ]
+      },
+      {
+        "heading": "El primer cambio de mayor retorno",
+        "body": [
+          "Bebidas azucaradas, jugos y cafés muy endulzados pueden sumar azúcar sin saciedad. Cambiarlos por agua, infusiones o versiones sin azúcar puede ser un paso simple.",
+          "Luego enfócate en desayunos y cenas, porque suelen marcar hambre y antojos del día."
+        ]
+      },
+      {
+        "heading": "Movimiento como herramienta metabólica",
+        "body": [
+          "Caminar, fuerza, movilidad o actividad moderada puede mejorar salud cardiometabólica. Empieza con una dosis realista y consulta si tienes limitaciones.",
+          "No necesitas esperar al plan perfecto. Pequeños bloques consistentes cuentan."
+        ]
+      },
+      {
+        "heading": "Comidas con más saciedad",
+        "body": [
+          "Combina proteína, fibra y carbohidratos de calidad. Ejemplos: huevos con vegetales y tostada integral; lentejas con ensalada; yogur natural con fruta y nueces.",
+          "Evita que tus comidas sean solo harinas refinadas o azúcar líquida."
+        ]
+      },
+      {
+        "heading": "Seguimiento sin culpa",
+        "body": [
+          "Usa laboratorio, cintura, energía, hambre y consistencia como señales. No conviertas cada comida en examen moral.",
+          "Si tienes SOP, embarazo, medicación o enfermedad renal, personaliza con tu profesional."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "Plan de acción de 4 semanas",
+      "Registro de hábitos",
+      "Ideas de comidas",
+      "Checklist de bebidas",
+      "Preguntas para consulta"
+    ],
+    "references": [
+      {
+        "label": "CDC: Prediabetes and Type 2 Diabetes Prevention",
+        "url": "https://www.cdc.gov/diabetes/prevention-type-2/index.html"
+      },
+      {
+        "label": "CDC: Diabetes Meal Planning",
+        "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html"
+      }
+    ],
+    "pdfPath": "/downloads/recursos-prediabetes.pdf"
+  },
+  {
+    "readTime": "9 min",
+    "type": "Guía descargable",
+    "pdfPages": [
+      {
+        "title": "Menús para control glucémico",
+        "subtitle": "Menús diarios educativos para practicar combinaciones que favorecen organización glucémica y saciedad.",
+        "bullets": [
+          "Objetivo: convertir información clínica en decisiones alimentarias seguras y practicables.",
+          "Uso recomendado: leer antes de planificar compras, comidas o preguntas para consulta.",
+          "Aviso: esta guía es educativa y no reemplaza una evaluación personalizada."
+        ]
+      },
+      {
+        "title": "Mapa clínico simple",
+        "subtitle": "Qué mirar antes de decidir qué comer",
+        "bullets": [
+          "Desayunos con proteína.",
+          "Almuerzos con plato balanceado.",
+          "Cenas simples y repetibles.",
+          "Snacks condicionales, no automáticos.",
+          "Observación de respuesta individual."
+        ]
+      },
+      {
+        "title": "Estructura del plato",
+        "subtitle": "Un método visual para reducir improvisación",
+        "bullets": [
+          "No empieces el día solo con azúcar o harinas refinadas.",
+          "Combina fruta con proteína o grasa saludable si necesitas más saciedad.",
+          "Usa legumbres y granos integrales como carbohidratos de mejor calidad.",
+          "Prepara una proteína base para tres comidas.",
+          "Deja verduras listas para sumar volumen y fibra."
+        ]
+      },
+      {
+        "title": "Lista de compra base",
+        "subtitle": "Alimentos que ayudan a construir comidas completas",
+        "bullets": [
+          "Usa legumbres y granos integrales como carbohidratos de mejor calidad.",
+          "Prepara una proteína base para tres comidas.",
+          "Deja verduras listas para sumar volumen y fibra.",
+          "Ajusta por medicación y monitoreo con tu equipo."
+        ]
+      },
+      {
+        "title": "Lectura de etiquetas",
+        "subtitle": "Cómo tomar mejores decisiones en productos empacados",
+        "bullets": [
+          "Revisa porción, sodio, azúcares añadidos, fibra y tipo de grasa.",
+          "Compara productos por cada 100 g o por porción equivalente.",
+          "Evita tomar decisiones solo por frases comerciales en el frente del empaque.",
+          "Prioriza ingredientes reconocibles y frecuencia de consumo realista."
+        ]
+      },
+      {
+        "title": "Plan semanal",
+        "subtitle": "Una estructura posible para empezar",
+        "bullets": [
+          "Define 2 desayunos, 3 almuerzos, 3 cenas y 2 meriendas repetibles.",
+          "Cocina una proteína base, una verdura base y un carbohidrato de calidad.",
+          "Deja una opción de emergencia para días con poco tiempo.",
+          "Registra tolerancia, saciedad y energía percibida sin obsesionarte."
+        ]
+      },
+      {
+        "title": "Errores comunes",
+        "subtitle": "Lo que suele generar confusión",
+        "bullets": [
+          "Eliminar grupos completos sin indicación profesional.",
+          "Copiar menús de internet sin adaptarlos a historia clínica, medicamentos o preferencias.",
+          "Medir avance solo por peso y no por adherencia, energía, sueño o síntomas.",
+          "Comprar suplementos antes de corregir estructura de comidas."
+        ]
+      },
+      {
+        "title": "Preguntas para consulta",
+        "subtitle": "Lleva mejores preguntas a tu profesional",
+        "bullets": [
+          "Qué indicadores debo monitorear en mi caso.",
+          "Qué alimentos debo limitar por diagnóstico, medicamentos o resultados de laboratorio.",
+          "Qué señales requieren ajuste o evaluación adicional.",
+          "Cómo adaptar la guía a horarios, presupuesto y cultura alimentaria."
+        ]
+      },
+      {
+        "title": "Checklist imprimible",
+        "subtitle": "Antes de cerrar tu semana",
+        "bullets": [
+          "Tengo comidas planificadas para los días más difíciles.",
+          "Incluí proteína, fibra y grasas de calidad según tolerancia.",
+          "Revisé sodio, azúcares añadidos o nutrientes críticos cuando aplica.",
+          "Sé qué duda llevaré a mi próxima consulta."
+        ]
+      },
+      {
+        "title": "Fuentes y uso responsable",
+        "subtitle": "Basado en educación nutricional, no en promesas",
+        "bullets": [
+          "CDC: Diabetes Meal Planning",
+          "Dietary Guidelines for Americans",
+          "Nutriología organiza esta información para educación y acompañamiento."
+        ]
+      }
+    ],
+    "slug": "menus-control-glucemico",
+    "title": "Menús para control glucémico",
+    "category": "Diabetes",
+    "accent": "#0A6B6B",
+    "image": "https://images.pexels.com/photos/6823504/pexels-photo-6823504.jpeg?auto=compress&cs=tinysrgb&w=2400&q=100",
+    "description": "Menús diarios educativos para practicar combinaciones que favorecen organización glucémica y saciedad.",
+    "audience": "Personas que quieren ejemplos de comidas equilibradas para diabetes, prediabetes o resistencia a la insulina.",
+    "lead": "Los menús ayudan cuando enseñan estructura, no cuando se copian sin pensar. Aquí cada ejemplo muestra por qué combina proteína, fibra, carbohidrato y grasa.",
+    "promise": "Incluye 7 menús base, variaciones y reglas para ajustar sin improvisar.",
+    "quickWins": [
+      "No empieces el día solo con azúcar o harinas refinadas.",
+      "Combina fruta con proteína o grasa saludable si necesitas más saciedad.",
+      "Usa legumbres y granos integrales como carbohidratos de mejor calidad.",
+      "Prepara una proteína base para tres comidas.",
+      "Deja verduras listas para sumar volumen y fibra.",
+      "Ajusta por medicación y monitoreo con tu equipo."
+    ],
+    "framework": [
+      "Desayunos con proteína.",
+      "Almuerzos con plato balanceado.",
+      "Cenas simples y repetibles.",
+      "Snacks condicionales, no automáticos.",
+      "Observación de respuesta individual."
+    ],
+    "sections": [
+      {
+        "heading": "Cómo leer estos menús",
+        "body": [
+          "Los menús son ejemplos educativos. No reemplazan una pauta personalizada ni indican cantidades exactas para todos.",
+          "Úsalos para identificar patrones: proteína, fibra, carbohidrato de calidad y grasas saludables en porciones razonables."
+        ]
+      },
+      {
+        "heading": "Día base 1",
+        "body": [
+          "Desayuno: yogur natural con fruta entera, nueces y avena. Almuerzo: pollo, ensalada grande, arroz integral y palta. Cena: tortilla de huevo con verduras y una porción de camote.",
+          "La lógica: fibra y proteína aparecen en cada comida para mejorar saciedad y evitar decisiones impulsivas."
+        ]
+      },
+      {
+        "heading": "Día base 2",
+        "body": [
+          "Desayuno: huevos con vegetales y tostada integral. Almuerzo: lentejas con ensalada y aceite de oliva. Cena: pescado con verduras y quinoa o papa.",
+          "La lógica: legumbres y granos integrales aportan carbohidratos con más fibra que productos refinados."
+        ]
+      },
+      {
+        "heading": "Variaciones culturales",
+        "body": [
+          "Puedes adaptar arroz, papa, maíz, yuca, tortillas o pan según porción, combinación y tolerancia. El problema rara vez es un solo alimento aislado.",
+          "Elige versiones menos refinadas cuando sea posible y acompaña con proteína y vegetales."
+        ]
+      },
+      {
+        "heading": "Cómo ajustar",
+        "body": [
+          "Si un menú no te da saciedad, revisa proteína, fibra y horario. Si te da pesadez, revisa grasa, porción y velocidad al comer.",
+          "Los datos de monitoreo y la orientación profesional son la forma más segura de personalizar."
+        ]
+      }
+    ],
+    "downloadBullets": [
+      "7 menús base",
+      "Variaciones por cultura alimentaria",
+      "Lista de compras",
+      "Reglas de ajuste",
+      "Registro de respuesta"
+    ],
+    "references": [
+      {
+        "label": "CDC: Diabetes Meal Planning",
+        "url": "https://www.cdc.gov/diabetes/healthy-eating/index.html"
+      },
+      {
+        "label": "Dietary Guidelines for Americans",
+        "url": "https://www.dietaryguidelines.gov/"
+      }
+    ],
+    "pdfPath": "/downloads/menus-control-glucemico.pdf"
+  }
+]
